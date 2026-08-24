@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.superpowers/
+.vs/
+TestResults/
+*.suo
+*.userosscache
+*.sln.docstates
+artifacts/
